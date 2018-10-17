@@ -1,9 +1,5 @@
 package com.cedei.plexus.empleadoswebservice.controllers;
 
-import java.io.FileInputStream;
-import java.io.FileReader;
-import java.io.Reader;
-import java.nio.file.Paths;
 import java.util.List;
 import java.util.Optional;
 import java.util.Properties;
